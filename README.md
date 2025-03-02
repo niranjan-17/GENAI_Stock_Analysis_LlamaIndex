@@ -102,6 +102,5 @@ symbols = ['MSFT', 'NVDA', 'GOOG', 'META', 'AAPL', 'TSM']
 - [LlamaIndex](https://gpt-index.readthedocs.io/en/latest/) for efficient document indexing.
 - [OpenAI](https://openai.com) for GPT-powered insights.
 
-## 📜 License
-This project is licensed under the **MIT License**.
+
 
